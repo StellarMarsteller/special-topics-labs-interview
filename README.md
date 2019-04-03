@@ -32,20 +32,13 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
-* _Ronnie_: My goal since moving to Columbus has been to become a software developer. After coming to work for Nationwide, I found that they have a really good Software Development team and have been working all I can to become a part of that team.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
-* _Ronnie_: I have visited Long Beach, California and Macon, Georgia and really love both places (Long Beach for the ocean and Macon for being a quaint small town in the Southern United States). I would like to visit Germany and England some day and see some of the historic sites that I have read about in history classes. Plus I was born in Germany and want to see the city where I was born.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
-* _Ronnie_: My favorite member of The Beatles is Ringo Starr. My favorite Beatles songs are (in no particular order):
-    1. Lucy In The Sky With Diamonds
-    1. I Want To Hold Your Hand
-    1. Love Me Do
-    1. Come Together
+
     
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem).
-* _Ronnie_: I have two dogs - Jasper is a Terrier/Beagle mix and is 5 years old. He has the beagle coloring but the terrier coat. Alice is supposedly a Chihuahua/Beagle mix and is 3 years old. She is all brown, has tiny feet, *LOVES* to cuddle, and will not hesitate to run you over once she gets started running. 
 
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
